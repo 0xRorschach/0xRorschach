@@ -31,14 +31,6 @@ Most of what I build starts as a question I got tired of answering by hand. If a
       <br><sub><a href="https://github.com/0xRorschach/pow-pos-radar">see the method →</a></sub>
     </td>
   </tr>
-  <tr>
-    <td valign="top"><sub><code>PLATE V</code></sub></td>
-    <td valign="top">
-      <b>Turkish de-AI-ifier</b><br>
-      A Claude skill that takes the AI tells out of Turkish text and leaves numbers, units and hedging alone. Built after one too many drafts that read fine and sounded like nobody.
-      <br><sub>public soon</sub>
-    </td>
-  </tr>
 </table>
 
 <sub>Elsewhere: <a href="https://x.com/0x_Rorschach">@0x_Rorschach</a> on X.</sub>
