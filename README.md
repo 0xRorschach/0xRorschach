@@ -9,7 +9,15 @@ Most of what I build starts as a question I got tired of answering by hand. If a
 
 <table>
   <tr>
-    <td width="90" valign="top"><sub><code>PLATE II</code></sub></td>
+    <td width="90" valign="top"><sub><code>PLATE V</code></sub></td>
+    <td valign="top">
+      <b><a href="https://github.com/0xRorschach/claude-codex-orchestration">Claude Code × Codex orchestration</a></b><br>
+      The main session plans and reviews, typed subagents do the work, and a model from the other family checks it before anything ships. Hooks turn the rules into something the agent can't quietly skip.
+      <br><sub><a href="https://github.com/0xRorschach/claude-codex-orchestration">see the setup →</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub><code>PLATE II</code></sub></td>
     <td valign="top">
       <b><a href="https://github.com/0xRorschach/biostat-studio">BioStat Studio</a></b><br>
       Excel in, Word results section out. It runs on the Mac and nothing goes to the cloud, which is the whole point when the data is clinical.
